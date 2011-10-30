@@ -1,0 +1,3 @@
+#!/bin/bash
+ld $1.o gtine.o -o $1
+./$1
